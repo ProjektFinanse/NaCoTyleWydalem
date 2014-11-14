@@ -1,2 +1,2 @@
 Database has been deleted.
-Application doesnn't work without db.
+Application doesn't work without db.
